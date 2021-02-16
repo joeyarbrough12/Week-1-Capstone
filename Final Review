@@ -1,0 +1,11 @@
+
+
+Data Science Coursera Capstone
+
+The objective of this notebook is to complete the IBM Applied Data Science Capstone for Coursera project.
+import pandas as pd
+import numpy as np
+
+
+
+Hello Capstone Project Course!
